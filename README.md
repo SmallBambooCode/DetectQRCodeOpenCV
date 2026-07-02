@@ -1,0 +1,2 @@
+# DetectQRCodeOpenCV
+基于OpenCV的QR码检测系统-数字图像处理实训项目
